@@ -1,0 +1,3 @@
+:loop
+mspaint
+goto loop
